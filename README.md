@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/tyasha/leetCode/tree/master/0053-maximum-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/tyasha/leetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/tyasha/leetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
